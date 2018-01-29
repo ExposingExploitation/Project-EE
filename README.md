@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+--Welcome to Exposing Exploitation--
+We are a group of individuals committed to exposing the widespread exploitation of children that exists beneath the surface of nearly every social media website. 
 
-You can use the [editor on GitHub](https://github.com/ExposingExploitation/Project-EE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In highlighting the dark realities of how vulnerable young people are manipulated, abused, and exploited over the internet, we seek to bring these realities to the attention of the public so that steps can be taken to protect children. We also seek to hold social media websites accountable for the countless predators who capitalize on the vulnerability of our society’s most helpless individuals. Finally, we seek to identify the individuals and groups who are responsible for committing these abuses so that proper justice can be rendered for their actions.
 
 ### Markdown
 
